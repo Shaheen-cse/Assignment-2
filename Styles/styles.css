@@ -7,13 +7,14 @@
 }
 body{
     font-family: 'Poppins', sans-serif; 
+    
 }
 
 /* -------------------------------------------- */
 /* Working with Navigation-Ber */
 /* --------------------------------------- */
 #influencer{
-    margin-left: 120px;
+    margin-left: 100px;
     margin-top: 87px;
     font-style: normal;
     font-weight: bold;
@@ -43,3 +44,33 @@ ul{
 }
 
 
+/* -------------------------------------------- */
+/* Heading Section includes one image whith upper side navber. */
+/* --------------------------------------- */
+
+
+
+.header-materials{
+    display: flex;
+    justify-content: space-around;
+}
+.first-section{
+    width: 50%;
+    margin-left: 120px;
+    margin-right: 100px; 
+}
+
+.first-section img{
+    width: 100%;
+    
+
+}
+#button-prebook{
+    text-decoration: none;
+    background-image:linear-gradient(#E02C6D,rgb(207, 14, 14)) ;
+    padding: 10px 36px;
+    border-radius: 41px;
+    color: white;
+    font-weight: bold;
+    
+}
