@@ -74,3 +74,30 @@ ul{
     font-weight: bold;
     
 }
+
+
+
+/* -------------------------------------------- */
+/* Horizontal line and logos */
+/* --------------------------------------- */
+
+
+
+
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 120px
+
+
+}
+hr{
+    font-weight: 700px;
+    padding: 3px;
+    margin: 10px;
+}
+
+
+
+
+
